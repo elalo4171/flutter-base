@@ -43,8 +43,6 @@ migrate_working_dir/
 .idea/runConfigurations/
 
 # Visual Studio Code
-.vscode/
-.vscode/*
 .settings/
 
 # Archivos de paquetes con rutas multi-root
